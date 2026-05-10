@@ -1,5 +1,9 @@
 # ESP32-FabGL-MSX1Emulator
 
+## Demonstration
+[![MSX Emulator on ESP32 - GRADIUS](https://youtube.com)](https://www.youtube.com/watch?v=d_9KP-l-2iU)
+*Watch the MSX1 emulator running 'Gradius' with SCC sound simulation on YouTube.*
+
 [Japanese / [English](#english)]
 
 ---

@@ -151,8 +151,8 @@ b2 左 (Left) 0:ON / 1:OFF
 b1 下 (Down) 0:ON / 1:OFF
 b0 上 (Up) 0:ON / 1:OFF
 
-![接続](JoyStickConnection.JPG)
-基板にヘッダを半田付けします。基板の端側のピン(白：3.3V　黒：GND　グレー：RX)に接続します。
+<img src="JoyStickConnection.JPG" width="300">)
+<sub>基板にヘッダを半田付けします。基板の端側のピン(白：3.3V　黒：GND　グレー：RX)に接続します。
 ---
 
 <a name="english"></a>
@@ -321,6 +321,6 @@ b2  | Left     | 0:ON / 1:OFF
 b1  | Down     | 0:ON / 1:OFF
 b0  | Up       | 0:ON / 1:OFF
 
-![Joystick connection diagram](JoyStickConnection.JPG)
-Solder the headers to the board. Connect to the pins on the edge of the board (White: 3.3V, Black: GND, Grey: RX).
+<img src="JoyStickConnection.JPG" width="300">
+<sub>Solder the headers to the board. Connect to the pins on the edge of the board (White: 3.3V, Black: GND, Grey: RX).
 ---
